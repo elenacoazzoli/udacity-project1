@@ -152,14 +152,17 @@ body {
         flex-direction: column;
         align-items: center;
     }
+
     .header .header-inner {
         flex-direction: column;
         align-items: center;
     }
+
     .header .header-inner .header-title {
         flex-direction: column;
         align-items: center;
     }
+
     .header .header-inner .header-title .header-main-title {
         font-size: 1.5rem;
         margin: 10px 0 0 0;
@@ -170,12 +173,15 @@ body {
     .featured-work-container {
         flex-direction: column;
     }
+
     .featured-work-container .featured-work-image {
         margin-right: 0px;
     }
+
     .featured-work-container .featured-work-image img {
         max-height: 100%;
     }
+
     .first-project-container .first-project-image {
         height: 300px;
     }
